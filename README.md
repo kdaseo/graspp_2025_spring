@@ -34,20 +34,21 @@ Module 4: AI, LLM and Text analysis
 Final Presentations
 - Week 13 (July 7): Final presentations
 
-## Assignments/Milestones
+## Group Assignments/Milestones
 - Milestone 1: Data selection and research question
   - Grade: 20% of grade
-    - Group coding task: Import and manipulate the data and show descriptive statistics in table or graphs.
+  - Task: Import and manipulate the data and show descriptive statistics in table or graphs.
   - Due: by Week 4 (Apr. 28)
-  - How: Each team member must make at least one commit to the group github
-  - Individual extra credit: Import one data set from api or csv using functions or oop
 
 - Milestone 2: Data Visulaization and Interpretation
   - Grade: 20% of grade
-  - Coding task: Create at least 5 different visualizations (including charts) of the dataset.
+  - Task: Create at least 5 different visualizations (including charts) of the dataset.
   - Due: by Week 4 (May. 26)
-  - How: Each team member must make at least one commit to the group github
 
+- Milestone 3: Analytical Presentation
+  - Grade: 20% of grade
+  - Task: Present analysis in a whitepaper, slides or a dashboard
+  - Due: by Week 4 (June 23)
 
 ## Course Objectives
 
