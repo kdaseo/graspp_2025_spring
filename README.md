@@ -9,6 +9,46 @@
   - [Github](http://github.com/corybaird)
   - [Linkedin](https://www.linkedin.com/in/cory-baird-mn/)
 
+## Schedule
+
+Module 1: How to Run Statistical Software (3 weeks)
+- Week 1 (Apr. 7): The Easy Way to Code and Useful Tools
+- Week 2 (Apr. 14): Acquiring Data through APIs
+- Week 3 (Apr. 21): Downloading and transforming with tools (functions)
+
+Module 2: Visualization (3 weeks)
+- Week 4 (Apr. 28): Introduction to Data Visualization 
+- Week 5 (May 12): More visualization and mapping libraries
+- Week 6 (May 19): Data pipeline and regression
+
+Module 3: Regression, ML, AI
+- Week 7 (May 26): Regression & Machine Learning
+- Week 8 (June 2): ML & Neural Networks (A.I.)
+- Week 9 (June 9): Forecasting (Time series)
+
+Module 4: AI, LLM and Text analysis
+- Week 10 (June 16): Reading PDF, NLP basics (Bag-of-words)
+- Week 11 (June 23): Using LLMs
+- Week 12 (June 30): Fine-tuning/training LLMs
+
+Final Presentations
+- Week 13 (July 7): Final presentations
+
+## Assignments/Milestones
+- Milestone 1: Data selection and research question
+  - Grade: 20% of grade
+    - Group coding task: Import and manipulate the data and show descriptive statistics in table or graphs.
+  - Due: by Week 4 (Apr. 28)
+  - How: Each team member must make at least one commit to the group github
+  - Individual extra credit: Import one data set from api or csv using functions or oop
+
+- Milestone 2: Data Visulaization and Interpretation
+  - Grade: 20% of grade
+  - Coding task: Create at least 5 different visualizations (including charts) of the dataset.
+  - Due: by Week 4 (May. 26)
+  - How: Each team member must make at least one commit to the group github
+
+
 ## Course Objectives
 
 - Use Python to collect, clean, and analyze policy-relevant data.
@@ -39,31 +79,7 @@
       * Google Colab: [https://colab.research.google.com/](https://colab.research.google.com/)
       * pip: The standard tool for installing and managing extra Python libraries that provide specialized functions for data analysis, machine learning, and more.
 
-## Schedule
 
-Module 1: How to Run Statistical Software (3 weeks)
-- Week 1 (Apr. 7): The Easy Way to Code and Useful Tools
-- Week 2 (Apr. 14): Acquiring Data through APIs
-- Week 3 (Apr. 21): Downloading and transforming with tools (functions)
-
-Module 2: Visualization (3 weeks)
-- Week 4 (Apr. 28): Introduction to Data Visualization 
-- Week 5 (May 5): More visualization and mapping libraries
-- Week 6 (May 12): Dashboards
-
-## Assignments/Milestones
-- Milestone 1: Data selection and research question
-  - Grade: 20% of grade
-    - Group coding task: Import and manipulate the data and show descriptive statistics in table or graphs.
-  - Due: by Week 4 (Apr. 28)
-  - How: Each team member must make at least one commit to the group github
-  - Individual extra credit: Import one data set from api or csv using functions or oop
-
-- Milestone 2: Data Visulaization and Interpretation
-  - Grade: 20% of grade
-  - Coding task: Create at least 5 different visualizations (including charts) of the dataset.
-  - Due: by Week 4 (May. 12)
-  - How: Each team member must make at least one commit to the group github
 
 
 
