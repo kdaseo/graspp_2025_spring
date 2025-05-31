@@ -24,9 +24,9 @@ Module 2: Visualization (3 weeks)
 Module 3: Regression, ML, AI
 - Week 7 (May 26): Regression & Machine Learning
 - Week 8 (June 2): ML & Neural Networks (A.I.)
-- Week 9 (June 9): Forecasting (Time series)
 
 Module 4: AI, LLM and Text analysis
+- Week 9 (June 9): Scraping
 - Week 10 (June 16): Reading PDF, NLP basics (Bag-of-words)
 - Week 11 (June 23): Using LLMs
 - Week 12 (June 30): Fine-tuning/training LLMs
@@ -48,7 +48,7 @@ Final Presentations
 - Milestone 3: Analytical Presentation
   - Grade: 20% of grade
   - Task: Present analysis in a whitepaper, slides or a dashboard
-  - Due: by Week 4 (June 23)
+  - Due: by Week 11 (June 23)
 
 ## Course Objectives
 
